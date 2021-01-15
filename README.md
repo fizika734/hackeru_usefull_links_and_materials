@@ -1,5 +1,6 @@
 # hackeru_usefull_links_and_materials
 Usefull links and materials of studing group csb-1
+
 Some rules:
   1 Do not add logins/passwords
   2 Do not add vpn configs and other critial infrastructure information
